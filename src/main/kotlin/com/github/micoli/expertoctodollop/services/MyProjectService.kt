@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.micoli.expertoctodollop.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.micoli.expertoctodollop.MyBundle
 
 class MyProjectService(project: Project) {
 

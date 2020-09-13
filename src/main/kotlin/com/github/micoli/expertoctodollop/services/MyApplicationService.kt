@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.micoli.expertoctodollop.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.micoli.expertoctodollop.MyBundle
 
 class MyApplicationService {
 
